@@ -1,0 +1,16 @@
+.tab-titles {
+  display: flex;
+  background-color: #f2f2f2;
+}
+
+.tab-titles div {
+  padding: 10px;
+  cursor: pointer;
+  flex-grow: 1;
+  text-align: center;
+  border: 1px solid #ccc;
+}
+
+.tab-titles div.active {
+  background-color: #ddd;
+}

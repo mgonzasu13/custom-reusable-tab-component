@@ -1,0 +1,7 @@
+app-tabs {
+  display: flex;
+  flex-direction: column;
+  width: 100%; /* ajusta el ancho según tus necesidades */
+  border: 1px solid #ccc;
+  height: 200px;
+}
